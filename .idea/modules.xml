@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Cucumber/Cucumber.iml" filepath="$PROJECT_DIR$/Cucumber/Cucumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CucumberTAU/CucumberTAU.iml" filepath="$PROJECT_DIR$/CucumberTAU/CucumberTAU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CucumberTAU-Hooks/CucumberTAU (1).iml" filepath="$PROJECT_DIR$/CucumberTAU-Hooks/CucumberTAU (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/CucumberTAU-DataTable/CucumberTAU (2).iml" filepath="$PROJECT_DIR$/CucumberTAU-DataTable/CucumberTAU (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TESTAUTOMATION.iml" filepath="$PROJECT_DIR$/.idea/TESTAUTOMATION.iml" />
+    </modules>
+  </component>
+</project>
